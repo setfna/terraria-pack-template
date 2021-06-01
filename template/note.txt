@@ -1,0 +1,6 @@
+Content folder is where the fun begins, but first lemme explain.
+pack.json is where the information will be put, this being the description and the name and the author.
+use notepad ++ to edit the pack.json file, there, otes will be written where you can just delete them and replace them
+you wont see a icon.png file, however, that will be your icon, make sure its a png file.
+
+proceed
