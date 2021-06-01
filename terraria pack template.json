@@ -1,10 +1,10 @@
 {
-	"Name": "Entre estas comillas, pon un titulo para tu pack"
-	"Author": "Entre estas comillas, pon tu nombre o username"
-	"Description": "Entre estas comillas, pon una descripcion, pon /n si quieres bajar una linea"
+	"Name": "Name"
+	"Author": "Author"
+	"Description": "Description, put /n to change line"
 	"Version": {
 		"major": "1"
 		"minor": "0"
-		//*Entre las comillas de "major" y "minor", pon la version. Los packs tienen lo de 1.0, 1.4, 2.0. "major" es el primer digito, y "minor" es el segundo digito despues del punto.*//
+		//*"major" and "minor" are to define the version therefore, from what i put, its 1.0*//
 	}
 }
