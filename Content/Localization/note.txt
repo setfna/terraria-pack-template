@@ -1,0 +1,38 @@
+Easy Part
+Make a language pack using a .json file
+first of all, name you file any of these names
+English - en-US.json
+German - de-DE.json
+Italian - it-IT.json
+French - fr-FR.json
+Spanish - es-ES.json
+Russian - ru-RU.json
+Chinese - zh-Hans.json
+Portuguese - pt-BR.json
+Polish - pl-PL.json
+
+Now, an example
+
+{
+    "ItemName": {
+        "CopperShortsword": "Overpowered Sword",
+        "ToiletCactus": "Nightmare Toilet",
+        "Wood": "Lumber",
+    },
+    "ItemTooltip": {
+        "ToiletCactus": "'This is going to be a huge mistake.'",
+        "Gel": "'Do not consume while on fire.'",
+    }
+}
+in this case, we opened 2 categories, the "ItemName" category and the "ItemTooltip" category.
+In these categories, they will each change something.
+ItemName will change the Item's Name.
+ItemTooltip will change the flavor text.
+What we did was:
+*We opened the ItemName category
+*We changed the name of the item from "CopperShortsword" to "Overpowered Sword"
+*We changed the name of the item from "ToiletCactus" to "Nightmare Toilet"
+*We changed the name "Wood" to "Lumber"
+*We Opened the category ItemTooltip
+*We changed the ToiletCactus flavor text to "This is going to be a huge mistake."
+*
