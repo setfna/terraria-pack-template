@@ -1,0 +1,4 @@
+These are the textures, i recommend using gimp.
+Unlike minecraft, the textures actually have to be the same size
+Each pixel is actually 2x2 pixels!
+Use TExtract to extract the textures and draw over them

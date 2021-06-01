@@ -1,0 +1,2 @@
+You can use TExtract to find the sound IDs
+Again, replace the sounds by using a sound file (.mp3 or .ogg recommendably)
