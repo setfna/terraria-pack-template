@@ -1,9 +1,0 @@
-The content folder contains various files and folders:
-heres the data
-NOTE: The standart textures and sounds and stuff are in an XNB file, i recommend grabbing TExtract (google it as "terraria extract") and grabbing the textures, so then you can eddit them.
-Images: They store the textures and backgrounds
-Fonts: Each font, like standart or death, or menu.
-Sounds: The Sounds
-Music: The music
-You can delete the folders that you're not going to change.
-Proceed
